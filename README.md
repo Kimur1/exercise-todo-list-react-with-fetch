@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/breatheco-de/exercise-todo-list-react-with-fetch)
+
 # Second Part of the TODO list, adding fetch
 
 This exercise is meant to be completed after the [TODO list react application](https://projects.breatheco.de/d/todo-list#readme) because the first part its the perfect boilerplate to start using API's.
